@@ -1,1 +1,10 @@
-[]
+[
+  "test_duplicate_encoder_count.py::test_differents",
+  "test_duplicate_encoder_count.py::test_alternate",
+  "test_duplicate_encoder_count.py::test_mayus_check",
+  "test_duplicate_encoder_count.py::test_strange_characters",
+  "test_duplicate_encoder_dictionary.py::test_differents",
+  "test_duplicate_encoder_dictionary.py::test_alternate",
+  "test_duplicate_encoder_dictionary.py::test_mayus_check",
+  "test_duplicate_encoder_dictionary.py::test_strange_characters"
+]

@@ -1,4 +1,4 @@
-from duplicate_encoder_count import duplicate_encoder
+from duplicate_encoder_dictionary import duplicate_encoder
 
 def test_differents():
     assert duplicate_encoder('din') == '((('
