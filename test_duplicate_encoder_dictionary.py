@@ -11,3 +11,6 @@ def test_mayus_check():
 
 def test_strange_characters():
     assert duplicate_encoder('(( @') == '))(('
+
+def test_numbers():
+    assert duplicate_encoder('1ad41 8') == ')((()(('
